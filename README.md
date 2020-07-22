@@ -10,7 +10,7 @@
 
 
 ## 📄 Sobre 
-O projeto é um e-commerce, onde vamos poder anúnciar produtos, criar uma conta, exibir o produto, comprá-lo, adicionar e excluir imagens, valores/preços e o produto final será parecido com este que está no gif.
+O projeto é um e-commerce, onde vamos poder anunciar produtos, criar uma conta, exibir o produto, comprá-lo, adicionar e excluir imagens, valores/preços e o produto final será parecido com este que está no gif.
 
 ---
 
